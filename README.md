@@ -5,7 +5,14 @@
  - [Assignment Two - 30 points](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/Assignments/Assignment2.pdf)
  ### Bonus
  
-## ~ Laboratory ~
+## ~ Laboratory  Rules ~
+
+- Learn by doing.
+- Don't do any copy-paste of code. Write everything with your own hands.
+- Remember: Learning is done with your hands, not with your eyes.
+- Code iteratively: Run the code often and after any new changes. Solve the bugs and errors ASAP and not at the end when the entire project code is written.
+- Debug your code whenever is necessary.
+- "Done is better than perfect."
 
 - Contact: Alexandru Ghiuruțan (alexandru.ghiurutan95@gmail.com)
 
