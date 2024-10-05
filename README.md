@@ -36,6 +36,9 @@
 - [GIT Tutorial with LIVE commands on a dummy project](https://youtu.be/tRZGeaHPoaw?si=RuEuSOCL6QaPtUd9)
 - [Java Basics - Skip the topics that you already know. Play the videos with extra speed](https://www.youtube.com/playlist?list=PL9DF6E4B45C36D411)
 
+### Homework 1 - Zoowsome
+
+- [Model an application for a Zoo in Cluj](https://drive.google.com/file/d/1VIDNvXEfkyjj4BiOQa0JcIuqlyQdKerY/view?usp=sharing)
 
 ## Laborator 2 - SOLID 
 
