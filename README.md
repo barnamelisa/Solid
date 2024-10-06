@@ -24,7 +24,7 @@
 - [Cum vrea un fost angajat Google să schimbe România: „Ieşim din corporaţii, construim companii”](https://adevarul.ro/locale/cluj-napoca/cum-vrea-fost-angajat-google-schimbe-romania-iesim-corporatii-construim-companii-1_5f0326c45163ec4271b33633/index.html)
 
 ### Theory
-
+- [Probabily the Best Java Book out there - Head First Java](https://www.pdfiles.net/storage/Books/headfirst/Head_First_Java_A_Brain-Friendly_Guide.pdf)
 - [OOP Principles](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
 - [Polymorphism Static vs Dynamic](https://www.geeksforgeeks.org/polymorphism-in-java/)
 - [Polymorphism Types & Possible Problems](https://www.baeldung.com/java-polymorphism)
