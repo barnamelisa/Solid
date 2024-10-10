@@ -49,6 +49,7 @@
 - [SOLID Principles Theory](https://hackernoon.com/solid-principles-made-easy-67b1246bcdf)
 - [SOLID Principles with Examples](https://www.baeldung.com/solid-principles)
 - [An example of transgresion of the Liskov Substitution Principle](https://www.oodesign.com/liskov-s-substitution-principle.html)
+- [Cohesion vs Coupling](https://www.baeldung.com/cs/cohesion-vs-coupling)
 - [Coupling in JAVA](https://www.baeldung.com/java-coupling-classes-tight-loose)
 - [Design Patterns](https://refactoring.guru/design-patterns)
 - ["Uncle Bob" on Design Patterns](http://blog.cleancoder.com/uncle-bob/2014/06/30/ALittleAboutPatterns.html)
