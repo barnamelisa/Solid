@@ -60,6 +60,6 @@
 ### Practice
  - [Java Design Patterns tutorial. Play the videos with extra speed](https://www.youtube.com/playlist?list=PLtTVgBdymZBjtal6O9bw1esdLFiF73hdz)
 
-### Homework 2
+### Homework 2 - SOLID
 - [Fix broken code such that it fits the SOLID principles](https://github.com/AlexandruGH/AC_Inginerie_Software_2024-2025/tree/main/solid)
 
