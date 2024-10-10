@@ -54,6 +54,7 @@
 - [Design Patterns](https://refactoring.guru/design-patterns)
 - ["Uncle Bob" on Design Patterns](http://blog.cleancoder.com/uncle-bob/2014/06/30/ALittleAboutPatterns.html)
 - [Data Access Object Pattern](https://www.tutorialspoint.com/design_pattern/data_access_object_pattern.htm)
+- [Technical Debt and how to avoid it](https://www.digitalocean.com/resources/articles/what-is-technical-debt)
 - [The Clean Code Talks - Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc)
 
 ### Practice
