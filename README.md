@@ -63,3 +63,26 @@
 ### Homework 2 - SOLID
 - [Fix broken code such that it fits the SOLID principles](https://github.com/AlexandruGH/AC_Inginerie_Software_2024-2025/tree/main/solid)
 
+
+## Laborator 3 - Dependency Injection & Design Patterns
+
+### Story
+- [Rada Mihalcea. Povestea româncei absolvente de UTCN Calculatoare care a ajuns în topul geniilor din SUA](https://adevarul.ro/stiri-locale/cluj-napoca/exclusiv-povestea-romancei-care-l-a-cucerit-pe-1563851.html)
+
+### Theory
+- [Strong vs Loose Coupling](https://www.baeldung.com/java-coupling-classes-tight-loose)
+- [Dependency Injection Explained in 15 seconds.](https://www.youtube.com/watch?v=J1f5b4vcxCQ&ab_channel=CodeAesthetic)
+- [Dependency Injection and history explained. First 10 minutes of video are more relevant. Not necessary to follow the entire video with Dagger and stuff.](https://www.youtube.com/watch?v=oK_XtfXPkqw&ab_channel=GoogleforDevelopers)
+- [volatile keyword in JAVA](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
+- [Thread Safe with double checking Singleton in JAVA](https://www.baeldung.com/java-singleton-double-checked-locking)
+- [Hyperthreading](https://www.youtube.com/watch?v=wnS50lJicXc&t=202s&ab_channel=Techquickie)
+- [Better Commit Messages](https://skerritt.blog/writing-better-commit-messages/)
+- [TDD - Test Driven Development. Writing tests first.](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
+- [final keyword in JAVA](https://www.baeldung.com/java-final)
+- [Immutability - Functional Programming with JAVA](https://belief-driven-design.com/functional-programming-with-java-immutability-ae3372311b9/)
+- [Java. Pass by Value vs Pass by Reference](https://www.baeldung.com/java-pass-by-value-or-pass-by-reference)
+
+### Practice
+- [3 Design Patterns Examples Implementation from each category](https://refactoring.guru/design-patterns/catalog)
+
+
