@@ -71,6 +71,7 @@
 
 ### Theory
 - [Strong vs Loose Coupling](https://www.baeldung.com/java-coupling-classes-tight-loose)
+- [Primitive vs Wrapper types - Autoboxing vs Unboxing](https://konstantinmb.medium.com/understanding-primitive-types-and-wrapper-classes-in-java-a-comprehensive-guide-6013c6b1c87)
 - [Dependency Injection Explained in 15 seconds.](https://www.youtube.com/watch?v=J1f5b4vcxCQ&ab_channel=CodeAesthetic)
 - [Dependency Injection and history explained. First 10 minutes of video are more relevant. Not necessary to follow the entire video with Dagger and stuff.](https://www.youtube.com/watch?v=oK_XtfXPkqw&ab_channel=GoogleforDevelopers)
 - [volatile keyword in JAVA](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
