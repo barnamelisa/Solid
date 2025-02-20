@@ -1,2 +1,6 @@
-package com.solid.l.good;public interface Shape {
+package com.solid.l.good;
+
+public interface Shape {
+
+    int getArea();
 }

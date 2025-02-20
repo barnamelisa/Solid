@@ -5,10 +5,10 @@ import java.util.Date;
 import com.solid.i.bad.BadInvoicePrinter;
 import com.solid.i.bad.BadInvoicePrinter_I;
 import com.solid.i.bad.SomeOtherBadInvoicePrinter;
-import com.solid.i.good.GoodInvoicePrinter;
-import com.solid.i.good.GoodInvoicePrinter_I;
 import com.solid.i.good.SomeOtherGoodInvoicePrinter;
 import com.solid.i.good.SomeOtherGoodInvoicePrinter_I;
+import com.solid.i.good.GoodInvoicePrinter_I;
+import com.solid.i.good.GoodInvoicePrinter;
 
 public class IMain {
 
