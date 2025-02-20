@@ -1,90 +1,69 @@
-# AC_Inginerie_Software_2024-2025
+# 💡 SOLID Principles in Java  
 
-# Assignments
- - [Assignment One - 70 points](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/blob/master/Assignments/Assignment1.pdf)
- - [Assignment Two - 30 points](https://github.com/AlexandruGH/AC_Inginerie_Software_2020-2021/tree/master/Assignments/Assignment2.pdf)
- ### Bonus
- 
-## ~ Laboratory  Rules ~
+![GitHub repo size](https://img.shields.io/github/repo-size/barnamelisa/Solid?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/barnamelisa/Solid?color=green)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![License](https://img.shields.io/github/license/barnamelisa/Solid?color=yellow)
 
-- Learn by doing.
-- Don't do any copy-paste of code. Write everything with your own hands.
-- Remember: Learning is done with your hands, not with your eyes.
-- Code iteratively: Run the code often and after any new changes. Solve the bugs and errors ASAP and not at the end when the entire project code is written.
-- Debug your code whenever is necessary.
-- "Done is better than perfect."
+📌 This repository contains Java implementations of the **SOLID principles**, which are fundamental to writing clean, maintainable, and scalable code. Each principle is **implemented and explained through a clear, real-world example**, making it easy to understand how to apply each one in practical situations.
 
-- Contact: Alexandru Ghiuruțan (alexandru.ghiurutan95@gmail.com)
+---
 
-## Laboratory 1 - Recap
+## 📖 Table of Contents  
+- [📌 About](#-about)  
+- [🚀 SOLID Principles Implemented](#-solid-principles-implemented)  
+- [💻 How to Use](#-how-to-use)  
+- [📂 Folder Structure](#-folder-structure)  
 
-### Story
+---
 
-- [(GPT) Andrej Karpathy - Former Director of AI at Tesla, currently working at OpenAI - Coding Skill is More Valuable Than Ever - Don't let the ease of prompting large language models discourage you from learning to code](https://www.deeplearning.ai/the-batch/coding-skill-is-more-valuable-than-ever/)
-- [Cum vrea un fost angajat Google să schimbe România: „Ieşim din corporaţii, construim companii”](https://adevarul.ro/locale/cluj-napoca/cum-vrea-fost-angajat-google-schimbe-romania-iesim-corporatii-construim-companii-1_5f0326c45163ec4271b33633/index.html)
+## 📌 About  
 
-### Theory
-- [Probabily the Best Java Book out there - Head First Java](https://www.pdfiles.net/storage/Books/headfirst/Head_First_Java_A_Brain-Friendly_Guide.pdf)
-- [OOP Principles](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
-- [Polymorphism Static vs Dynamic](https://www.geeksforgeeks.org/polymorphism-in-java/)
-- [Polymorphism Types & Possible Problems](https://www.baeldung.com/java-polymorphism)
+The **SOLID** principles are a set of five object-oriented design principles that help developers write cleaner, more maintainable, and scalable code. These principles are:
 
+1. **S** - Single Responsibility Principle (SRP)  
+2. **O** - Open/Closed Principle (OCP)  
+3. **L** - Liskov Substitution Principle (LSP)  
+4. **I** - Interface Segregation Principle (ISP)  
+5. **D** - Dependency Inversion Principle (DIP)
 
-### Practice
+This repository provides **Java implementations** and **real-world examples** of each of these principles to help developers understand how to properly apply them in software development.
 
-- [Learning GIT BASH](https://up1.github.io/git-guide/index.html)
-- [GIT Tutorial with LIVE commands on a dummy project](https://youtu.be/tRZGeaHPoaw?si=RuEuSOCL6QaPtUd9)
-- [Java Basics - Skip the topics that you already know. Play the videos with extra speed](https://www.youtube.com/playlist?list=PL9DF6E4B45C36D411)
+---
 
-### Homework 1 - Zoowsome
+## 🚀 SOLID Principles Implemented  
 
-- [Model an application for a Zoo in Cluj](https://drive.google.com/file/d/1VIDNvXEfkyjj4BiOQa0JcIuqlyQdKerY/view?usp=sharing)
+### 🧩 **Single Responsibility Principle (SRP)**  
+✔️ Example of a class that has one reason to change (i.e., a single responsibility).  
 
-## Laborator 2 - SOLID 
+### 🔒 **Open/Closed Principle (OCP)**  
+✔️ Example demonstrating how to extend functionality without modifying existing code.
 
-### Story
-- [PODCAST Andrei Dunca. Absolvent Calculatoare UTCN, Fondator Trilulilu, fondator LiveRail, startup cumpărat de Facebook cu 500 milioane $](https://www.youtube.com/watch?v=Z0RWeMWriAE&t=1260s)
+### 🔄 **Liskov Substitution Principle (LSP)**  
+✔️ Example showing how derived classes should be substitutable for their base class.
 
-### Theory
-- [SOLID Principles Theory](https://hackernoon.com/solid-principles-made-easy-67b1246bcdf)
-- [SOLID Principles with Examples](https://www.baeldung.com/solid-principles)
-- [An example of transgresion of the Liskov Substitution Principle](https://www.oodesign.com/liskov-s-substitution-principle.html)
-- [Cohesion vs Coupling](https://www.baeldung.com/cs/cohesion-vs-coupling)
-- [Coupling in JAVA](https://www.baeldung.com/java-coupling-classes-tight-loose)
-- [Design Patterns](https://refactoring.guru/design-patterns)
-- ["Uncle Bob" on Design Patterns](http://blog.cleancoder.com/uncle-bob/2014/06/30/ALittleAboutPatterns.html)
-- [Data Access Object Pattern](https://www.tutorialspoint.com/design_pattern/data_access_object_pattern.htm)
-- [Technical Debt and how to avoid it](https://www.digitalocean.com/resources/articles/what-is-technical-debt)
-- [The Clean Code Talks - Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc)
+### 🛠️ **Interface Segregation Principle (ISP)**  
+✔️ Example showing how to prefer many smaller interfaces over a few larger ones.
 
-### Practice
- - [Java Design Patterns tutorial. Play the videos with extra speed](https://www.youtube.com/playlist?list=PLtTVgBdymZBjtal6O9bw1esdLFiF73hdz)
+### 🔌 **Dependency Inversion Principle (DIP)**  
+✔️ Example showing how high-level modules should not depend on low-level modules, but on abstractions.
 
-### Homework 2 - SOLID
-- [Fix broken code such that it fits the SOLID principles](https://github.com/AlexandruGH/AC_Inginerie_Software_2024-2025/tree/main/solid)
+---
 
+## 📂 Folder Structure  
+The repository is organized into folders for each SOLID principle:
 
-## Laborator 3 - Dependency Injection & Design Patterns
+   -   **`S/`**: This folder contains the implementation and example for the **Single Responsibility Principle**.
+   -   **`O/`**: This folder contains the implementation and example for the **Open/Closed Principle**.
+   -   **`L/`**: This folder contains the implementation and example for the **Liskov Substitution Principle**.
+   -   **`I/`**: This folder contains the implementation and example for the **Interface Segregation Principle**.
+   -   **`D/`**: This folder contains the implementation and example for the **Dependency Inversion Principle**.
 
-### Story
-- [Rada Mihalcea. Povestea româncei absolvente de UTCN Calculatoare care a ajuns în topul geniilor din SUA](https://adevarul.ro/stiri-locale/cluj-napoca/exclusiv-povestea-romancei-care-l-a-cucerit-pe-1563851.html)
+---
 
-### Theory
-- [Strong vs Loose Coupling](https://www.baeldung.com/java-coupling-classes-tight-loose)
-- [Primitive vs Wrapper types - Autoboxing vs Unboxing](https://konstantinmb.medium.com/understanding-primitive-types-and-wrapper-classes-in-java-a-comprehensive-guide-6013c6b1c87)
-- [Dependency Injection Explained in 15 seconds.](https://www.youtube.com/watch?v=J1f5b4vcxCQ&ab_channel=CodeAesthetic)
-- [Dependency Injection and history explained. First 10 minutes of video are more relevant. Not necessary to follow the entire video with Dagger and stuff.](https://www.youtube.com/watch?v=oK_XtfXPkqw&ab_channel=GoogleforDevelopers)
-- [volatile keyword in JAVA](https://www.geeksforgeeks.org/volatile-keyword-in-java/)
-- [Thread Safe with double checking Singleton in JAVA](https://www.baeldung.com/java-singleton-double-checked-locking)
-- [Hyperthreading](https://www.youtube.com/watch?v=wnS50lJicXc&t=202s&ab_channel=Techquickie)
-- [Better Commit Messages](https://skerritt.blog/writing-better-commit-messages/)
-- [TDD - Test Driven Development. Writing tests first.](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
-- [final keyword in JAVA](https://www.baeldung.com/java-final)
-- [static keyword in JAVA](https://www.baeldung.com/java-static)
-- [Immutability - Functional Programming with JAVA](https://belief-driven-design.com/functional-programming-with-java-immutability-ae3372311b9/)
-- [Java. Pass by Value vs Pass by Reference](https://www.baeldung.com/java-pass-by-value-or-pass-by-reference)
+## 💻 How to Use  
 
-### Practice
-- [3 Design Patterns Examples Implementation from each category](https://refactoring.guru/design-patterns/catalog)
-
-
+### 🔹 **Clone the Repository**  
+```sh
+git clone https://github.com/barnamelisa/Solid.git
+cd Solid
